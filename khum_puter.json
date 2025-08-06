@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Computer",
   "author": "Paul Leadbeater",
-  "website": "https://github.com/PaulLeadbeater1/",
+  "website": "https://github.com/PaulLeadbeater1/respeaker-wakeword-computer/raw/refs/heads/main/",
   "model": "khum_puter.tflite",
   "trained_languages": ["en"],
   "version": 2,
